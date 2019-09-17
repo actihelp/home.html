@@ -1,0 +1,2 @@
+# home.html
+activatehelper
